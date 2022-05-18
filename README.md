@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Terrell Wright</h1>
-<h3 align="center">I'm a passionate tech learner, that has an eye for design, front-end and back-end development.</h3>
+<h1 align="center">I'm Terrell Wright</h1>
+<h3 align="center">A passionate tech learner, that has an eye for design, front-end and back-end development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twrigh404&label=Profile%20views&color=0e75b6&style=flat" alt="twrigh404" /> </p>
 
