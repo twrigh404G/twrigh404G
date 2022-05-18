@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [codepen.io/twrigh404 codepen.io/TheCleanGirraffe](codepen.io/twrigh404 codepen.io/TheCleanGirraffe)
 
-- 💬 Ask me about **Javascript, React, sass, Node**
+- 💬 Ask me about **Javascript, React, sass, Node.js**
 
 - 📫 :sunglasses: How to reach me **wrightterrell049@gmail.com**
 
