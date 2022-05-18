@@ -1,5 +1,5 @@
-<p align="center" width="480px" height="300px">
-  <img height="480px" height="300px" src="https://github.com/twrigh404G/twrigh404G/blob/main/TerrellWrightSvg.svg" alt="twrigh404" />
+<p align="center" width="100%" height="300px">
+  <img height="480px" width="100%" src="https://github.com/twrigh404G/twrigh404G/blob/main/TerrellWrightSvg.svg" alt="twrigh404" />
 </p>
 <h1 align="center">I'm Terrell Wright</h1>
 <h3 align="center">A passionate tech learner, that has an eye for design, front-end and back-end development.</h3>
