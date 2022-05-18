@@ -2,7 +2,7 @@
 <p align="center" width="400px" height="200px">
   <img height="200px" width="400px" src="TerrellWrightSvg (1).svg" alt="twrigh404" />
 </p>
-<h1 align="center">I'm Terrell Wright</h1>
+<h1 align="center">:point_right:I'm Terrell Wright:point_left::nerd_face::love_you_gesture:</h1>
 <h3 align="center">A passionate tech learner, that has an eye for design, front-end and back-end development.</h3>
 
 <p align="left" width="250px" height="400px"> <img src="https://komarev.com/ghpvc/?username=twrigh404&label=Profile%20views&color=0e75b6&style=flat" alt="twrigh404" /> </p>
