@@ -2,16 +2,16 @@
 <p align="center" width="400px" height="200px">
   <img height="200px" width="400px" src="TerrellWrightSvg (1).svg" alt="twrigh404" />
 </p>
-<h1 align="center">:point_right:I'm Terrell Wright:point_left::nerd_face::love_you_gesture:</h1>
+<h1 align="center">:medal_sports::point_right:I'm Terrell Wright:point_left::nerd_face::love_you_gesture:</h1>
 <h3 align="center">A passionate tech learner, that has an eye for design, front-end and back-end development.</h3>
 
 <p align="left" width="250px" height="400px"> <img src="https://komarev.com/ghpvc/?username=twrigh404&label=Profile%20views&color=0e75b6&style=flat" alt="twrigh404" /> </p>
 
-- 🌱 I’m currently learning **React-three-fiber, UI/UX methodologies, figma**
+- 🌱 I’m currently learning **React-three-fiber, UI/UX methodologies, figma, typescript, ssr(next.js)*
 
 - 👨‍💻 All of my projects are available at [codepen.io/twrigh404 codepen.io/TheCleanGirraffe](codepen.io/twrigh404 codepen.io/TheCleanGirraffe)
 
-- 💬 Ask me about **Javascript, React, sass, Node.js, material-ui**
+- 💬:crystal_ball: Ask me about **Javascript, React, sass, Node.js, material-ui**
 
 - 📫 :sunglasses: How to reach me **wrightterrell049@gmail.com**
 
