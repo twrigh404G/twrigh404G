@@ -1,5 +1,5 @@
 
-<p align="center" width="600px" height="300px">
+<p align="center" width="500px" height="200px">
   <img height="100%" width="100%" src="TerrellWrightSvg (1).svg" alt="twrigh404" />
 </p>
 <h1 align="center">:medal_sports::point_right:I'm Terrell Wright:point_left::nerd_face::love_you_gesture:</h1>
