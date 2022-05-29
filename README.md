@@ -7,7 +7,7 @@
 
 <p align="left" width="250px" height="400px"> <img src="https://komarev.com/ghpvc/?username=twrigh404&label=Profile%20views&color=0e75b6&style=flat" alt="twrigh404" /> </p>
 
-- 🌱 I’m currently learning **React-three-fiber, UI/UX methodologies, figma, typescript, ssr(next.js)*
+- 🌱 I’m currently learning **React-three-fiber, UI/UX methodologies,spline, figma, typescript, ssr(next.js)*
 
 - 👨‍💻 All of my projects are available at [codepen.io/twrigh404 codepen.io/TheCleanGirraffe](codepen.io/twrigh404 codepen.io/TheCleanGirraffe)
 
