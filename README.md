@@ -1,5 +1,5 @@
 <h1 align="center" font-size="42px">:medal_sports::point_right:I'm Terrell Wright:point_left::nerd_face::love_you_gesture:</h1>
-<img height="50%" width="100%" src="TerrellWrightSvg (1).svg" alt="twrigh404" />
+<img height="300px" width="100%" src="TerrellWrightSvg (1).svg" alt="twrigh404" />
 <h3 align="center">A passionate tech learner, that has an eye for design, front-end and back-end development.</h3>
 
 <p align="left" width="250px" height="400px"> <img src="https://komarev.com/ghpvc/?username=twrigh404&label=Profile%20views&color=0e75b6&style=flat" alt="twrigh404" /> </p>
