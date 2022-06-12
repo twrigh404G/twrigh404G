@@ -1,7 +1,8 @@
-<h1 align="center">:medal_sports::point_right:I'm Terrell Wright:point_left::nerd_face::love_you_gesture:</h1>
-<img align="center" height="300px" width="500px" src="TerrellWrightSvg (1).svg" alt="twrigh404" />
-<h3 align="center">A passionate tech learner, that has an eye for design, front-end and back-end development.</h3>
-
+<div align="center">
+  <h1 align="center">:medal_sports::point_right:I'm Terrell Wright:point_left::nerd_face::love_you_gesture:</h1>
+  <img align="center" height="300px" width="500px" src="TerrellWrightSvg (1).svg" alt="twrigh404" />
+  <h3 align="center">A passionate tech learner, that has an eye for design, front-end and back-end development.</h3>
+</div>
 <p align="left" width="250px" height="400px"> <img src="https://komarev.com/ghpvc/?username=twrigh404&label=Profile%20views&color=0e75b6&style=flat" alt="twrigh404" /> </p>
 
 - 🌱 I’m currently learning **React-three-fiber, UI/UX methodologies,spline, figma, typescript, ssr(next.js)*
