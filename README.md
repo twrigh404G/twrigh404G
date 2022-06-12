@@ -1,6 +1,6 @@
 
-<p align="center" width="500px" height="200px">
-  <img height="60%" width="60%" src="TerrellWrightSvg (1).svg" alt="twrigh404" />
+<p align="center" width="100%" height="200px">
+  <img height="50%" width="100%" src="TerrellWrightSvg (1).svg" alt="twrigh404" />
 </p>
 <h1 align="center">:medal_sports::point_right:I'm Terrell Wright:point_left::nerd_face::love_you_gesture:</h1>
 <h3 align="center">A passionate tech learner, that has an eye for design, front-end and back-end development.</h3>
