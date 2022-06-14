@@ -2,16 +2,16 @@
   <h1 align="center">:medal_sports::aries:H'i I'm Terrell::paintbrush::nerd_face:👨‍💻</h1>
   <img align="left" height="300px" width="500px" src="TerrellWrightSvg (1).svg" alt="twrigh404" />
 </div>
-<p align="left" width="250px" height="400px"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="twrigh404" /></p>
+<p align="left" width="250px" height="400px"><a href="https://dev.to/twrigh404g"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=red" alt="twrigh404" /></a></p>
 
 - 🌱 I’m currently learning **React-three-fiber, UI/UX methodologies,spline, figma, typescript, ssr(next.js), aws, distributed systems*
 
-- 👨‍💻 All of my projects are available at <a href="https://codepen.io/twrigh404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="twrigh404" height="25" width="50" /></a><a href="https://github.com/twrigh404" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="twrigh404" height="25" width="50" /></a>
+- 👨‍💻 All of my projects are available at <a href="https://codepen.io/twrigh404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="twrigh404" height="25" width="50" /></a><a href="https://github.com/twrigh404" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=red" alt="twrigh404" height="25" width="50" /></a>
 
 
 
 <p align="center">
-<h3 align="center">Connect with me:</h3>
+<h1 align="center">Connect with me:</h1>
 <a href="https://codepen.io/twrigh404" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-   badge&logo=twitter&logoColor=white" alt="twrigh404" height="30" width="60" /></a>
 <a href="https://codepen.io/twrigh404" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="twrigh404" height="30" width="60" /></a>
 </p><br />
