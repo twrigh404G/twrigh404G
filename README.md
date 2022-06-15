@@ -12,7 +12,7 @@
 
 <p align="center">
 <h1 align="center">Connect with me:</h1>
-<a href="https://codepen.io/twrigh404" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-   badge&logo=twitter&logoColor=white" alt="twrigh404" height="30" width="60" /></a>
+<a href="https://twitter.com/Terrell08270647" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-   badge&logo=twitter&logoColor=white" alt="twrigh404" height="30" width="60" /></a>
 <a href="https://codepen.io/twrigh404" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="twrigh404" height="30" width="60" /></a>
 </p><br />
 
